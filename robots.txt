@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://civsoft.app/sitemap.xml
